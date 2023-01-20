@@ -64,8 +64,12 @@ body{
   color:#de2e54;
 }
 .site-logo-text:active{
-  color: #fff;
+  color: #de2e54;
   opacity: 0.6;
+}
+
+.site-logo-site-footer:active{
+  color: #fff;
 }
 
 /* SITE NAV  */
