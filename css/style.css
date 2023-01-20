@@ -49,6 +49,18 @@ body{
 .site-logo-img{
   margin-right: 16px;
 }
+.site-logo-text{
+  color: #222;
+  font-family: "Open sans", "Arial", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.site-logo-text:hover{
+  color:#de2e54;
+}
+.site-logo-text:active{
+  opacity: 0.6;
+}
 
 /* SITE NAV  */
 
